@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<!DOCTYPE library SYSTEM "index.dtd">
+<?xml-stylesheet type = "text/xsl" href = "main.xsl"?> 
+<library>
+    <student id="1">
+        <name>Ch Samba Siva Reddy</name>
+        <rollno>19131a0542</rollno>
+        <branch>CSE</branch>
+        <section>1</section>
+        <book>
+            Intro to XML
+        </book>
+    </student>
+    <student id="2">
+        <name>Ch Maheswara rao</name>
+        <rollno>19131a0539</rollno>
+        <branch>CSE</branch>
+        <section>1</section>
+        <book>
+            Object Oriented Programming using Java
+        </book>
+    </student>
+    <student id="3">
+        <name>D Sai Krishna</name>
+        <rollno>19131a0547</rollno>
+        <branch>CSE</branch>
+        <section>1</section>
+        <book>
+            Machine Learning using Python
+        </book>
+    </student>
+    <student id="4">
+        <name>A Hari Babu</name>
+        <rollno>19131a0505</rollno>
+        <branch>CSE</branch>
+        <section>1</section>
+        <book>
+            Software Engineering
+        </book>
+    </student>
+    <student id="5">
+        <name>B Naveen</name>
+        <rollno>19131a0523</rollno>
+        <branch>CSE</branch>
+        <section>1</section>
+        <book>
+            Linear Algebra and Calculus
+        </book>
+    </student>
+</library>

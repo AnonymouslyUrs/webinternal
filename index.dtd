@@ -1,0 +1,8 @@
+<!ELEMENT library (student+)>
+<!ELEMENT student (name, rollno, branch, section, book)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT rollno (#PCDATA)>
+<!ELEMENT branch (#PCDATA)>
+<!ELEMENT section (#PCDATA)>
+<!ELEMENT book (#PCDATA)>
+<!ATTLIST student id CDATA #REQUIRED>
